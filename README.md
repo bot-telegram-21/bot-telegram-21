@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on bots to make a large set of bots in Brazilian Portuguese
 - 📫 How to reach me: bot.telegram.21@gmail.com
 
+---
+
 - 👋 Olá, sou @bot-telegram-21
 - 👀 Meus interesses são em tecnologias
 - 🌱 Atualmente estou aprendendo a criar robôs (bots) para o Telegram
